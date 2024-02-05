@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Node.js Version
+
+This project is designed to work with Node.js version v.18.X.X . It's recommended to use the stable version of Node.js for compatibility.
+
 ## Available Scripts
 
 In the project directory, you can run:
